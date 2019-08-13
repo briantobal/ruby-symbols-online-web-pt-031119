@@ -45,6 +45,8 @@ name.object_id == same_as_name.object_id
 # Stored in 2 different locations in memory
 ```
 
+Making a change - zippidity doo da.
+
 Try printing out the `object_id` of an identical string a couple times to see that they are, in fact, different. Note: your `object_id` will be different from the ones below. The important thing to note is that none of them will be the same id.
 
 ```ruby
